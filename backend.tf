@@ -4,7 +4,7 @@ terraform {
     organization = "steedmanman"
 
     workspaces {
-      name = "cli"
+      name = "TFE-cli"
     }
   }
 }
